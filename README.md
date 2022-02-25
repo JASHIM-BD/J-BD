@@ -1,2 +1,2 @@
-# J-ADMIN
-Admin panel with tailwind 
+# J-BD Dashboard
+Responsive dashboard template built with tailwindcss & alpinejs
